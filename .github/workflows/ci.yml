@@ -1,6 +1,6 @@
 name: CI Pipeline
 
-# Updated to Node.js 24-compatible GitHub Actions for Task 7.1P
+# Updated to Node.js 24-compatible actions; CI push verification for Task 7.1P
 
 on:
   # Manual trigger
